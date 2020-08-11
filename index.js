@@ -1,4 +1,3 @@
-//Teste de comentário para o git
 const express = require('express')
 const bodyParser = require('body-parser')
 
